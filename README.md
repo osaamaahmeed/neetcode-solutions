@@ -1,7 +1,8 @@
-# NeetCode 150 Solutions
+# NeetCode Solutions
 
 ![Progress](https://img.shields.io/badge/Progress-0%2F150-red)
-![Language](https://img.shields.io/badge/Language-Python-blue)
+![Language](https://img.shields.io/badge/Language-Dart-0175C2)
+![Language](https://img.shields.io/badge/Language-C++-00599C)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 My solutions to the **NeetCode 150** problems - a curated collection of LeetCode questions covering essential data structures and algorithms patterns for technical interviews.
@@ -43,12 +44,13 @@ This repository documents my journey through the NeetCode 150 list, a comprehens
 ## 🗂️ Repository Structure
 
 ```
-neetcode-150/
+neetcode-solutions/
 ├── README.md
 ├── Arrays-and-Hashing/
 │   ├── README.md
 │   ├── contains-duplicate/
-│   │   ├── solution.py
+│   │   ├── solution.dart
+│   │   ├── solution.cpp (optional)
 │   │   └── README.md
 │   └── ...
 ├── Two-Pointers/
@@ -57,14 +59,17 @@ neetcode-150/
 ```
 
 Each problem folder contains:
-- **solution.py** - The solution code
+- **solution.dart** - Primary solution in Dart
+- **solution.cpp** - Alternative solution in C++ (when applicable)
 - **README.md** - Problem description, approach, and complexity analysis
 
 ## 💻 Languages Used
 
-- **Primary:** Python 3
-- Clean, idiomatic code following best practices
-- Focus on readability and efficiency
+- **Primary:** Dart
+- **Secondary:** C++
+- **Future:** Python, JavaScript (planned as I learn them)
+
+Solutions prioritize clean, idiomatic code following best practices for each language.
 
 ## 🚀 How to Use This Repository
 
@@ -90,8 +95,9 @@ Each problem folder contains:
 
 Each solution follows this structure:
 
-```python
-"""
+**Dart:**
+```dart
+/*
 Problem: [Problem Name]
 Difficulty: [Easy/Medium/Hard]
 Link: [LeetCode URL]
@@ -101,11 +107,31 @@ Space Complexity: O(?)
 
 Approach:
 [Brief explanation of the solution strategy]
-"""
+*/
 
-def solution():
-    # Implementation with clear comments
-    pass
+class Solution {
+  // Implementation with clear comments
+}
+```
+
+**C++:**
+```cpp
+/*
+Problem: [Problem Name]
+Difficulty: [Easy/Medium/Hard]
+Link: [LeetCode URL]
+
+Time Complexity: O(?)
+Space Complexity: O(?)
+
+Approach:
+[Brief explanation of the solution strategy]
+*/
+
+class Solution {
+public:
+    // Implementation with clear comments
+};
 ```
 
 ## 🤝 Contributing
@@ -121,8 +147,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Connect
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@osaamaahmeed](https://github.com/osaamaahmeed)
+- LinkedIn: [Osama Ahmed](www.linkedin.com/in/osaamahmeed)
 
 ---
 
