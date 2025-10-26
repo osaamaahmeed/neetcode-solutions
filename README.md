@@ -98,10 +98,6 @@ Each solution follows this structure:
 **Dart:**
 ```dart
 /*
-Problem: [Problem Name]
-Difficulty: [Easy/Medium/Hard]
-Link: [LeetCode URL]
-
 Time Complexity: O(?)
 Space Complexity: O(?)
 
@@ -117,10 +113,6 @@ class Solution {
 **C++:**
 ```cpp
 /*
-Problem: [Problem Name]
-Difficulty: [Easy/Medium/Hard]
-Link: [LeetCode URL]
-
 Time Complexity: O(?)
 Space Complexity: O(?)
 
