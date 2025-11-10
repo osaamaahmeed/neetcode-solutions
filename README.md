@@ -11,7 +11,7 @@ My solutions to the **NeetCode 150** problems - a curated collection of LeetCode
 
 | # | Topic | Problems Solved | Status |
 |---|-------|----------------|--------|
-| 1 | Arrays & Hashing | 2/9 | 🟨 |
+| 1 | Arrays & Hashing | 3/9 | 🟨 |
 | 2 | Two Pointers | 0/5 | ⬜️ |
 | 3 | Stack | 0/7 | ⬜️ |
 | 4 | Binary Search | 0/7 | ⬜️ |
@@ -30,7 +30,7 @@ My solutions to the **NeetCode 150** problems - a curated collection of LeetCode
 | 17 | Math & Geometry | 0/8 | ⬜️ |
 | 18 | Bit Manipulation | 0/7 | ⬜️ |
 
-**Total:** 2/150 Problems Solved
+**Total:** 3/150 Problems Solved
 
 ## 🎯 About This Repository
 
