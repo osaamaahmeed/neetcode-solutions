@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **This repo is archived.** <br><br> All my Problem Solving work now lives in
+> **[osaamaahmeed/Problem-Solving](https://github.com/osaamaahmeed/Problem-Solving)**: <br><br>
+> The solutions from this repo are kept there under `archive/`.
+> 
+
+<br>
+<br>
+<br>
+<br>
+
 # NeetCode Solutions
 
 ![Progress](https://img.shields.io/badge/Progress-1%2F150-red)
